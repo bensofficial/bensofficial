@@ -21,6 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bensofficial&show_icons=true" alt="bensofficial" /></p>
 <h3>Follow me:</h3>
 <p align="center">
-<a href="https://twitter.com/ben_s_official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ben_s_official" height="30" width="30" /></a>
+<a href="https://twitter.com/ben_itzy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ben_s_official" height="30" width="30" /></a>
 <a href="https://instagram.com/ben.s.official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ben.s.official" height="30" width="30" /></a>
 </p>
